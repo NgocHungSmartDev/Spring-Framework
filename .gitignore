@@ -1,3 +1,6 @@
 /websocket/.mvn
 /websocket/mvnw
 /websocket/*.cmd
+/spring-event/*.cmd
+/spring-event/*.gitignore
+/spring-event/*.md
