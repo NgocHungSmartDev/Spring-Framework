@@ -4,3 +4,4 @@
 /spring-event/*.cmd
 /spring-event/*.gitignore
 /spring-event/*.md
+/security-jwt/.idea
