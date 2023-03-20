@@ -5,3 +5,4 @@
 /spring-event/*.gitignore
 /spring-event/*.md
 /security-jwt/.idea
+/security-jwt/target
