@@ -9,6 +9,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.annotations.GenericGenerator;
 
+import java.util.Date;
 import java.util.Set;
 
 @Entity
@@ -36,7 +37,7 @@ public class Customer {
     private String role;
 
     @Column(name = "create_dt")
-    private String createDt;
+    private Date createDt;
 
     @JsonIgnore
     @OneToMany(mappedBy="customer",fetch=FetchType.EAGER)
