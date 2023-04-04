@@ -1,3 +1,5 @@
+# QR code refer: https://github.com/javadevjournal/javadevjournal/blob/master/spring-security/spring-security-series/src/main/java/com/javadevjournal/config/AppConfig.java
+
 ### Xóa commit không lưu lại history
 	* git log
 	* git reset --hard HEAD^ (xóa commit gần nhất)
@@ -6,3 +8,5 @@
 	* git push --force
 	
 ### Revert branch khi đã lỡ merged
+
+
