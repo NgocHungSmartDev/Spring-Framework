@@ -10,3 +10,8 @@
 ### Revert branch khi đã lỡ merged
 
 
+# KeyCloak
+## install on windown
+### How to run:
+	* bin/kc.bat start-dev --http-port 8180
+
